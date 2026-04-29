@@ -1,0 +1,2 @@
+nohup: ignoring input
+error: "/data/data/com.termux/files/usr/bin/ngrok" has unexpected e_type: 2
