@@ -1,0 +1,11 @@
+.cache/
+.npm/
+node_modules/
+old_backups/
+backups/
+logs/
+*.db
+*.sqlite*
+*.tar.gz
+.env
+__pycache__/

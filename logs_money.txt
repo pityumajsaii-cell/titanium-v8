@@ -1,0 +1,27 @@
+nohup: ignoring input
+✅ SENT: Harbor Finance AG info@harborfinance.ch
+✅ SENT: Swiss Growth Partners contact@swissgrowth.ch
+✅ SENT: Alpine Cloud Labs hello@alpinecloud.ch
+✅ SENT: Empire Reach Media sales@empirereach.com
+✅ SENT: Urban Scale Ads contact@urbanscale.com
+✅ SENT: Lex Harbor Group info@lexharbor.com
+✅ SENT: Broadway Dental Care hello@broadwaydental.com
+✅ SENT: London Prime Smile info@prime-smile.co.uk
+✅ SENT: Bridge Legal London contact@bridgelegal.co.uk
+✅ SENT: Sydney Elite Realty sales@sydneyelite.au
+✅ SENT: Opera Growth Media hello@operagrowth.au
+✅ SENT: Marina Keys Realty info@marinakeys.ae
+✅ SENT: Sunrise Trading LLC sales@sunrisetrading.ae
+✅ SENT: Hudson SaaS Works team@hudsonsaas.com
+✅ SENT: Swiss Bio Ventures info@swissbio.ch
+✅ SENT: Blue Bay Dental info@bluebaydental.ae
+✅ SENT: Metro Smile Dubai contact@metrosmile.ae
+✅ SENT: Lotus Med Aesthetics hello@lotusmed.ae
+✅ SENT: Evergreen Wealth AG info@evergreenwealth.ch
+✅ SENT: Manhattan Lead Forge sales@leadforge.com
+✅ SENT: Al Noor Dental Clinic info@alnoordental.ae
+✅ SENT: Pearl Smile Center contact@pearlsmile.ae
+✅ SENT: Marina Bright Dental hello@marinabright.ae
+✅ SENT: Elite Care Dentistry info@elitecare.ae
+✅ SENT: Jumeirah Dental House book@jumeirahdental.ae
+🔥 DONE: 25 emails sent
