@@ -46,10 +46,19 @@
 282,Al Arabiya,,Media,Dubai,,,95,YellowPages-UAE,new,2026-04-29 20:49:58
 284,Dubai Media Inc,,Media,Dubai,,,95,YellowPages-UAE,new,2026-04-29 20:49:58
 295,Zayed University,,Education,UAE,,,95,YellowPages-UAE,new,2026-04-29 20:49:58
+296,UAE University,,Education,Al Ain,,,95,YellowPages-UAE,new,2026-04-29 20:49:58
 304,Investment Corporation of Dubai,,Investment,Dubai,,,98,YellowPages-UAE,new,2026-04-29 20:49:58
 305,Dubai Holding,,Investment,Dubai,,,98,YellowPages-UAE,new,2026-04-29 20:49:58
 306,Meraas Holding,,Investment,Dubai,,,95,YellowPages-UAE,new,2026-04-29 20:49:58
 307,Nakheel Properties,,Real Estate,Dubai,,,98,YellowPages-UAE,new,2026-04-29 20:49:58
+309,Tesla Inc.,,Automotive/Tech,"USA, Texas",,,98,Titanium-Global,new,2026-04-29 20:50:16
+310,Lockheed Martin,,Defense/Aerospace,"USA, Maryland",,,95,Titanium-Global,new,2026-04-29 20:50:16
+311,Intel Corporation,,Semiconductors,"USA, California",,,95,Titanium-Global,new,2026-04-29 20:50:16
+313,Boeing Company,,Aerospace,"USA, Washington",,,95,Titanium-Global,new,2026-04-29 20:50:16
+320,Nvidia Corp,,AI/GPU,"USA, California",,,99,Titanium-Global,new,2026-04-29 20:50:16
+321,Advanced Micro Devices,,Processors,"USA, California",,,95,Titanium-Global,new,2026-04-29 20:50:16
+331,Oracle Corp,,Software,"USA, Texas",,,95,Titanium-Global,new,2026-04-29 20:50:16
+332,Salesforce Inc,,Software,"USA, California",,,95,Titanium-Global,new,2026-04-29 20:50:16
 337,ABB Ltd,,Robotics/Energy,"Switzerland, Zurich",,,98,Titanium-Global,new,2026-04-29 20:50:16
 338,UBS Group AG,,Finance,"Switzerland, Zurich",,,98,Titanium-Global,new,2026-04-29 20:50:16
 347,Kuehne + Nagel Intl,,Logistics,"Switzerland, Schindellegi",,,95,Switzerland-Direct,new,2026-04-29 20:50:16
@@ -66,11 +75,15 @@
 423,Migros-Genossenschafts-Bund,,Retail/Trading,Zurich,,,95,Switzerland-Direct,new,2026-04-29 20:51:20
 430,Lindt & Sprüngli,,Food,Kilchberg,,,95,Switzerland-Direct,new,2026-04-29 20:51:20
 450,Hilti AG,,Construction Tech,Schaan,,,95,Switzerland-Direct,new,2026-04-29 20:51:20
+454,Logitech SA,,Computer Peripherals,Lausanne,,,95,Switzerland-Direct,new,2026-04-29 20:51:20
+689,Space City Software,,Misszióirányítási szoftver,"Houston, TX",,,95,US-SME-Direct,new,2026-04-29 20:53:39
 762,Zug Crypto Valley Services,,Blockchain,"Zug, CH",,,95,Global-SME,new,2026-04-29 20:54:18
 800,Zürich Quantum Tech,,Kvantum számítástechnika,"Zürich, CH",,,98,Global-SME,new,2026-04-29 20:54:18
 804,Zug Smart Contract,,Okos szerződések,"Zug, CH",,,95,Global-SME,new,2026-04-29 20:54:18
 840,Zürich Wealth-Tech,,Vagyonkezelő szoftver,"Zürich, CH",,,95,Global-SME,new,2026-04-29 20:54:18
 844,Bern Cyber-Defense AG,,Állami IT védelem,"Bern, CH",,,95,Global-SME,new,2026-04-29 20:54:18
+875,Y-Combinator Tech 1,,SaaS Startup,"Mountain View, CA",,,95,Global-SME,new,2026-04-29 20:54:18
+883,Capital Factory Austin,,Defense Tech,"Austin, TX",,,95,Global-SME,new,2026-04-29 20:54:18
 887,EPFL Innovation Park,,Deep Tech,"Lausanne, CH",,,95,Global-SME,new,2026-04-29 20:54:18
 893,Bio-Technopark Schlieren,,Genomics,"Schlieren, CH",,,95,Global-SME,new,2026-04-29 20:54:18
 895,Dubai Future Accelerator,,Gov-Tech,"Dubai, Emirates Towers",,,98,Global-SME,new,2026-04-29 20:54:18
@@ -104,8 +117,11 @@
 1054,Vercel UAE SME,,Next.js Hosting,Dubai,,,95,Global-SME,new,2026-04-29 20:54:18
 1067,Zurich Quantum Logic,,Quantum Computing,"Zürich, CH",,,98,Elite-Closure,new,2026-04-29 20:55:01
 1068,Dubai Mars-Tech SME,,Space Exploration,"Dubai, UAE",,,95,Elite-Closure,new,2026-04-29 20:55:01
+1069,Singapore Cyber Fortress,,Infrastructure Defense,"Singapore, SG",,,96,Elite-Closure,new,2026-04-29 20:55:01
+1105,Tallinn E-Gov Tech,,Digitális közigazgatás,"Tallinn, EE",,,95,Giga-Batch-01,new,2026-04-29 20:55:51
 1120,Zürich Quantum Sensors,,Kvantumtechnika,"Zürich, CH",,,98,Giga-500,new,2026-04-29 20:56:07
 1125,Zug Crypto Nexus,,Blockchain,"Zug, CH",,,96,Giga-500,new,2026-04-29 20:56:07
+1130,Austin Shield IT,,Hálózatvédelem,"Austin, TX",,,95,Giga-500,new,2026-04-29 20:56:07
 2420,Keller 401 Fintech Advisory,,Independent Specialist,"Geneva, CH",,,95,International-Entrep,new,2026-04-29 20:59:48
 2421,Swiss-Tech 402 Solutions (Einzelunternehmen),,Independent Specialist,"Zürich, CH",,,95,International-Entrep,new,2026-04-29 20:59:48
 2422,Weber 403 Precision Engineering,,Independent Specialist,"Geneva, CH",,,95,International-Entrep,new,2026-04-29 20:59:48
