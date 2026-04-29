@@ -1,16 +1,14 @@
-from flask import Flask, request, jsonify, send_file
-app = Flask(__name__)
+import streamlit as st
+import pandas as pd
+import os
 
-@app.route("/")
-def home():
-    return open("templates/index.html","r",encoding="utf-8").read()
+st.set_page_config(page_title="Titanium v10.9 Elite", layout="wide")
+st.title("🛡️ Titanium Global Elite Dashboard")
 
-@app.route("/api/leads", methods=["GET","POST"])
-def leads():
-    if request.method=="POST":
-        data=request.json or {}
-        return jsonify({"success":True,"received":data.get("count",0),"status":"saved"})
-    return jsonify({"status":"online","endpoint":"/api/leads"})
-
-if __name__=="__main__":
-    app.run(host="0.0.0.0", port=5000)
+if os.path.exists("elite_targets.csv"):
+    df = pd.read_csv("elite_targets.csv")
+    st.metric("Összes Elit Lead", len(df))
+    st.write("### Globális Elit Lista (CH, UAE, AU, IN, US, NZ)")
+    st.dataframe(df, use_container_width=True)
+else:
+    st.warning("Adatbázis szinkronizálásra vár...")

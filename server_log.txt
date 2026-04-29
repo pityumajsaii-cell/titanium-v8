@@ -1,0 +1,6 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import uvicorn; from titanium_v4_core import app; uvicorn.run(app, host='127.0.0.1', port=8080)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'titanium_v4_core'
