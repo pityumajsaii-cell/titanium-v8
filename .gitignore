@@ -9,3 +9,4 @@ logs/
 *.tar.gz
 .env
 __pycache__/
+.env
