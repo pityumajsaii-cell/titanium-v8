@@ -22,3 +22,4 @@ https://localhost.run/docs/
 
 ** your connection id is e2fd1440-2fbb-4b58-93db-12c75400587e, please mention it if you send me a message about an issue. **
 
+client_loop: ssh_packet_write_poll: Connection to 54.161.197.247 port 22: Software caused connection abort
