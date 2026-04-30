@@ -1,31 +1,22 @@
 from flask import Flask, request, jsonify
+import os
 
 app = Flask(__name__)
 
-# ================= ROOT =================
 @app.route("/")
 def home():
-    return "TITANIUM ONLINE OK", 200
+    return "TITANIUM V8 - SAAS-MABX ACTIVE", 200
 
-# ================= HEALTH =================
 @app.route("/health")
 def health():
-    return jsonify(status="ok", system="titanium"), 200
+    return jsonify(status="ok", engine="Titanium-V8", instance="saas-mabx"), 200
 
-# ================= WEBHOOK =================
 @app.route("/webhook", methods=["POST"])
 def webhook():
     data = request.get_json(silent=True) or {}
-    print("WEBHOOK RECEIVED:", data)
-    return jsonify(ok=True), 200
+    print(f"🔥 WEBHOOK RECEIVED: {data}")
+    return jsonify(success=True, received=True), 200
 
-# ================= DEBUG ROUTES =================
-@app.route("/routes")
-def routes():
-    return {
-        "routes": [str(r) for r in app.url_map.iter_rules()]
-    }
-
-# ================= START =================
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8080)
+    port = int(os.environ.get("PORT", 8080))
+    app.run(host="0.0.0.0", port=port)
